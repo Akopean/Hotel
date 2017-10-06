@@ -1,0 +1,32 @@
+{
+  "name": "frontend-devil-2",
+  "description": "",
+  "main": "",
+  "authors": [
+    "insayt"
+  ],
+  "license": "MIT License",
+  "keywords": [
+    "gulp"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "slick-carousel": "^1.6.0",
+    "foundation-sites": "^6.3.0",
+    "bootstrap-sass": "~3.3.6",
+    "foundation": "~5.5.0",
+    "AniJS": "anijs#^0.9.3",
+    "lightgallery": "^1.3.7",
+    "normalize-css": "^1.0.0",
+    "animate.css": "^3.5.2"
+  }
+}
